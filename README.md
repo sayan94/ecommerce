@@ -130,4 +130,4 @@ Response Example:
       ]
   }`
 
- Data base files are presentinside DB folder
+ Data base files are present inside DB folder
