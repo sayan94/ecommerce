@@ -1,0 +1,58 @@
+[
+  {
+  "_id": {
+    "$oid": "5e060fdce7179a2f01079e7a"
+  },
+  "productId": "5e031c8de7179a2f01071555",
+  "productName": "iPhoneX",
+  "variantName": "32GB Silver",
+  "description": "Smart Phone",
+  "images": [],
+  "price": 10000,
+  "discountedPrice": "9000",
+  "isDeleted": false,
+  "isPurchasable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e06f4a9e7179a2f0107cbbc"
+    },
+    "productId": "5e031c8de7179a2f01071555",
+    "productName": "iPhoneX",
+    "variantName": "64GB Silver",
+    "description": "Smart Phone",
+    "images": [],
+    "price": 10000,
+    "discountedPrice": "9000",
+    "isDeleted": false,
+    "isPurchasable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e06f5a3e7179a2f0107cbc1"
+    },
+    "productId": "5e031c8de7179a2f01071555",
+    "productName": "iPhoneX",
+    "variantName": "32GB Gold",
+    "description": "Smart Phone",
+    "images": [],
+    "price": 10000,
+    "discountedPrice": "9000",
+    "isDeleted": false,
+    "isPurchasable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e06f5bce7179a2f0107cbc3"
+    },
+    "productId": "5e031c8de7179a2f01071555",
+    "productName": "iPhoneX",
+    "variantName": "64GB Gold",
+    "description": "Smart Phone",
+    "images": [],
+    "price": 10000,
+    "discountedPrice": "9000",
+    "isDeleted": false,
+    "isPurchasable": true
+  }
+]

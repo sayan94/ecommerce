@@ -1,0 +1,38 @@
+[
+  {
+    "_id": {
+      "$oid": "5e031c8de7179a2f01071555"
+    },
+    "id": "prod1577259831517",
+    "name": "iPhone X",
+    "description": "Smart Phone",
+    "images": [],
+    "price": 10000,
+    "discountedPrice": "9000",
+    "attributes": {
+      "storage": [
+        "32GB",
+        "64GB"
+      ],
+      "color": [
+        "silver",
+        "gold"
+      ]
+    },
+    "isPurchasable": false,
+    "isDeleted": false
+  },
+  {
+    "_id": {
+      "$oid": "5e031cbde7179a2f01071557"
+    },
+    "name": "USB Cable",
+    "description": "cable",
+    "images": [],
+    "price": 10000,
+    "discountedPrice": "9000",
+    "attributes": {},
+    "isPurchasable": true,
+    "isDeleted": false
+  }
+]
